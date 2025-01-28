@@ -1,1 +1,1 @@
-# seriestiempo
+Clase de Series de Tiempo
